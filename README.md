@@ -62,7 +62,7 @@ Feel free to pm me:
 <a href="https://t.me/boreallex" title="Telegram!">
 <img src="https://telegram.org/img/t_logo.svg?1" style='width: 40px; height: 40px;'></a>
 <a href="https://wa.me/89105256082" title="Facebook corporation product">
-<img src="https://www.freeiconspng.com/uploads/download-and-use-logo-whatsapp-png-clipart-3.png" style='width: 50px; height: 50px;'></a>
+<img src="https://www.freeiconspng.com/uploads/download-and-use-logo-whatsapp-png-clipart-3.png" style='width: 40px; height: 40px;'></a>
 <a href="mailto:alsyro@gmail.com" title="Send me email, pls!">
-<img src="https://www.freeiconspng.com/uploads/email-marketing-icon-email-icon-1.png" style='width: 60px; height: 50px;'></a>
+<img src="https://www.freeiconspng.com/uploads/email-marketing-icon-email-icon-1.png" style='width: 40px; height: 30px;'></a>
 </p>
