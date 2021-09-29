@@ -19,7 +19,7 @@
   <a href="https://reactjs.org/" title='I hate HBS, I love React!'>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/113px-React-icon.svg.png" style='width: 70px; height: 50px;'> 
   </a>
-  <a href="https://redux.js.org" title='Saga and Thunk included'>
+  <a href="https://redux.js.org" title='Redux. Saga and Thunk included'>
       <img src="https://redux.js.org/img/redux.svg" style='width: 50px; height: 50px;'>
   </a>
 </p>
@@ -27,7 +27,7 @@
 ## Back-end:
 
 <p align='center'>
-  <a href="https://nodejs.org" title="Yeah, it's node">
+  <a href="https://nodejs.org" title="Yeah, it's Node.js">
     <img src="https://nodejs.org/static/images/logo.svg" style='width: 50px; height: 50px;'>
   </a>
   <a href="https://expressjs.com/" title='Thcoo Tchoo'>
@@ -38,10 +38,10 @@
 ## DB and ORM:
 
 <p align='center'>
-  <a href="https://www.postgresql.org/" title="I know SQL">
+  <a href="https://www.postgresql.org/" title="I know PostgreSQL">
     <img src="https://www.postgresql.org/media/img/about/press/elephant.png" style='width: 50px; height: 50px;'>
   </a>
-  <a href="https://sequelize.org/master/" title="It's like Prisma, but not">
+  <a href="https://sequelize.org/master/" title="Sequelize, it's like Prisma, but not">
     <img src="https://sequelize.org/master/manual/asset/logo-small.png" style='width: 50px; height: 50px;'>
   </a>
 </div>
