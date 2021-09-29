@@ -63,6 +63,6 @@ Feel free to pm me:
 <img src="https://telegram.org/img/t_logo.svg?1" style='width: 40px; height: 40px;'></a>
 <a href="https://wa.me/89105256082" title="Facebook corporation product">
 <img src="https://www.freeiconspng.com/uploads/download-and-use-logo-whatsapp-png-clipart-3.png" style='width: 42px; height: 42px;'></a>
-<a href="mailto:alsyro@gmail.com" title="Send me email, pls!">
+<a href="mailto:alexander.syropyatov@gmail.com" title="Send me email, pls!">
 <img src="https://www.freeiconspng.com/uploads/email-marketing-icon-email-icon-1.png" style='width: 40px; height: 30px;'></a>
 </p>
