@@ -40,9 +40,9 @@
 
 ## Other:
 <p align='center'>
-<a href="https://www.python.org/" title="A little bit">
+<a href="https://www.python.org/" title="A little bit. And its ok not to feel anxios">
 <img src="https://www.python.org/static/img/python-logo.png" style='width: 150px; height: 50px;'></a>
-<a href="https://www.javascript.com/" title="It's okey feel anxios">
+<a href="https://www.javascript.com/" title="It's ok to feel anxios.">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/80px-Unofficial_JavaScript_logo_2.svg.png" style='width: 50px; height: 50px;'></a>
 </p>
 
