@@ -6,12 +6,13 @@
 </div>
 <br/>
 <br/>
+
 ## Front-end:
+
 <div style='display:flex; justify-content: center'>
- 
   <a href="https://html.com/" title='Just a HTML5 title'>
     <div style='text-align:center; margin: 0.5rem'>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/80px-HTML5_logo_and_wordmark.svg.png" style='width: 50px; height: 50px;'>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/80px-HTML5_logo_and_wordmark.svg.png" style='width: 60px; height: 50px;'>
     <p>HTML5</p>
   </div>
   </a>
@@ -23,7 +24,7 @@
   </a>
   <a href="https://reactjs.org/" title='I hate HBS, I love React!'>
     <div style='text-align:center; margin: 0.5rem'>
-    <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K" style='width: 50px; height: 50px;'> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/113px-React-icon.svg.png" style='width: 70px; height: 50px;'> 
     <p>React</p>
     </div>
   </a>
@@ -36,6 +37,7 @@
 </div>
 
 ## Back-end:
+
 <div style='display:flex; justify-content: center'>
   <a href="https://nodejs.org" title="Yeah, it's node">
     <div style='text-align:center; margin: 0.5rem'>
@@ -52,6 +54,7 @@
 </div>
 
 ## DB and ORM:
+
 <div style='display:flex; justify-content: center'>
   <a href="https://www.postgresql.org/" title="I know SQL">
     <div style='text-align:center; margin: 0.5rem'>
