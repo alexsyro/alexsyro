@@ -72,3 +72,5 @@ Feel free to pm me:
 <a href="mailto:alexander.syropyatov@gmail.com" title="Send me email, pls!">
 <img src="https://www.freeiconspng.com/uploads/email-marketing-icon-email-icon-1.png" style='width: 40px; height: 30px;'></a>
 </p>
+</br>
+Моё [Резюме](https://www.canva.com/design/DAErX-H1xR4/J90fva4XrwB4k3iEkc1AnQ/view?utm_content=DAErX-H1xR4&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
