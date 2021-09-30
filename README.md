@@ -1,9 +1,13 @@
-### Hi, %username%!
+### Hello,my dear %username%!
 <br/>
 <br/>
 <div style='display:flex; justify-content: center; border: 1px solid black; padding: 1rem; background-color: #262721; color: white; border-radius: 0.2rem'>
   My name is Alex, i'm inspired of coding and i'm Fullstack JS developer.  
 </div>
+<p>
+ Link to my <a href='https://www.canva.com/design/DAErX-H1xR4/J90fva4XrwB4k3iEkc1AnQ/view?utm_content=DAErX-H1xR4&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton'>CV</a>, on
+<a href='https://spb.hh.ru/resume/d55028c2ff094d94030039ed1f526f62357034'>HH</a>
+</p>
 <br/>
 <br/>
 
@@ -56,7 +60,7 @@
 <p align='center'>
 <a align="center" href="https://www.adamalston.com/">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexsyro&show_icons=true&line_height=21&theme=react" alt="Alexander Syropyatov Github Stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsyro&theme=react&line_height=27&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsyro&theme=react&line_height=27&layout=compact"/></a>
 </p>
 <br/>
 <br/>
@@ -64,6 +68,7 @@
 
 
 Feel free to pm me:
+
 <p align='left'>
 <a href="https://t.me/boreallex" title="Telegram!">
 <img src="https://telegram.org/img/t_logo.svg?1" style='width: 40px; height: 40px;'></a>
@@ -73,4 +78,3 @@ Feel free to pm me:
 <img src="https://www.freeiconspng.com/uploads/email-marketing-icon-email-icon-1.png" style='width: 40px; height: 30px;'></a>
 </p>
 </br>
-Моё [Резюме](https://www.canva.com/design/DAErX-H1xR4/J90fva4XrwB4k3iEkc1AnQ/view?utm_content=DAErX-H1xR4&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
