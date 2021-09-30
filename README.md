@@ -44,13 +44,19 @@
 <img src="https://www.python.org/static/img/python-logo.png" style='width: 150px; height: 50px;'></a>
 <a href="https://www.javascript.com/" title="It's ok to feel anxios.">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/80px-Unofficial_JavaScript_logo_2.svg.png" style='width: 50px; height: 50px;'></a>
+<a href="https://www.docker.com/" title="A little bit.">
+<img src="https://d1.awsstatic.com/acs/characters/Logos/Docker-Logo_Horizontel_279x131.b8a5c41e56b77706656d61080f6a0217a3ba356d.png" style='width: 130px; height: 60px;'></a>
+<a href="https://jestjs.io" title="A little bit.">
+<img src="https://symbols.getvecta.com/stencil_85/20_jest-icon.a8fdca0c23.svg" style='width: 50px; height: 50px;'></a>
 </p>
 
 <br/>
 <br/>
 <h2 align="center"> GitHub Stats: </h2>
 <p align='center'>
-<a align="center" href="https://www.adamalston.com/"><img height="137px" align="center" src="https://github-readme-stats.vercel.app/api?username=alexsyro&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --></a>
+<a align="center" href="https://www.adamalston.com/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexsyro&show_icons=true&line_height=21&theme=react" alt="Sstoy's Github Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsyro&theme=react&line_height=27&layout=compact" />
 </p>
 <br/>
 <br/>
