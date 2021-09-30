@@ -52,6 +52,8 @@
 <img src="https://d1.awsstatic.com/acs/characters/Logos/Docker-Logo_Horizontel_279x131.b8a5c41e56b77706656d61080f6a0217a3ba356d.png" style='width: 130px; height: 60px;'></a>
 <a href="https://jestjs.io" title="Jest">
 <img src="https://symbols.getvecta.com/stencil_85/20_jest-icon.a8fdca0c23.svg" style='width: 50px; height: 50px;'></a>
+<a href="https://github.com/" title="Github and Git">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" style='width: 50px; height: 50px;'></a>
 </p>
 
 <br/>
