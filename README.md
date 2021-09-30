@@ -1,4 +1,4 @@
-### Hello,my dear %username%!
+### Hello, my dear %username%!
 <br/>
 <br/>
 <div style='display:flex; justify-content: center; border: 1px solid black; padding: 1rem; background-color: #262721; color: white; border-radius: 0.2rem'>
