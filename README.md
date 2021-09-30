@@ -55,7 +55,7 @@
 <h2 align="center"> GitHub Stats: </h2>
 <p align='center'>
 <a align="center" href="https://www.adamalston.com/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexsyro&show_icons=true&line_height=21&theme=react" alt="Sstoy's Github Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexsyro&show_icons=true&line_height=21&theme=react" alt="Alexander Syropyatov Github Stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsyro&theme=react&line_height=27&layout=compact" />
 </p>
 <br/>
