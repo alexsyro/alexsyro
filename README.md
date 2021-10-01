@@ -16,13 +16,13 @@
 
 <p align='center'>
 <a href="https://html.com/" title='Just a HTML5 title'>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/80px-HTML5_logo_and_wordmark.svg.png" style='width: 60px; height: 50px;'></a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/80px-HTML5_logo_and_wordmark.svg.png" width='60px' height='60px' style='width: 60px; height: 50px;'></a>
 <a href="https://www.w3schools.com/css/" title='SASS looks like Python <3'>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/57px-CSS3_logo_and_wordmark.svg.png" style='width: 50px; height: 50px;'></a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/57px-CSS3_logo_and_wordmark.svg.png" width='60px' height='60px' style='width: 50px; height: 50px;'></a>
 <a href="https://reactjs.org/" title='I hate HBS, I love React!'>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/113px-React-icon.svg.png" style='width: 70px; height: 50px;'></a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/113px-React-icon.svg.png" width='80px' height='70px' style='width: 70px; height: 50px;'></a>
 <a href="https://redux.js.org" title='Redux. Saga and Thunk included'>
-<img src="https://redux.js.org/img/redux.svg" width='60px' height='60px' style='width: 50px; height: 50px;'></a>
+<img src="https://redux.js.org/img/redux.svg" width='70px' height='70px' style='width: 50px; height: 50px;'></a>
 </p>
 
 ## Back-end:
@@ -31,7 +31,7 @@
 <a href="https://nodejs.org" title="Yeah, it's Node.js">
 <img src="https://nodejs.org/static/images/logo.svg"  width='60px' height='60px' style='width: 50px; height: 50px;'></a>
 <a href="https://expressjs.com/" title='Thcoo Tchoo'>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Expressjs.png/200px-Expressjs.png" style='width: 100px; height: 50px;'></a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Expressjs.png/200px-Expressjs.png" width='110px' height='60px' style='width: 100px; height: 50px;'></a>
 </p>
 
 ## DB and ORM:
@@ -74,7 +74,7 @@ Feel free to pm me:
 
 <p align='left'>
 <a href="https://t.me/boreallex" title="Telegram!">
-<img src="https://telegram.org/img/t_logo.svg?1" style='width: 40px; height: 40px;'></a>
+<img src="https://telegram.org/img/t_logo.svg?1" width='60px' height='60px' style='width: 40px; height: 40px;'></a>
 <a href="https://wa.me/89105256082" title="Facebook corporation product">
 <img src="https://www.freeiconspng.com/uploads/download-and-use-logo-whatsapp-png-clipart-3.png" width='60px' height='60px' style='width: 42px; height: 42px;'></a>
 <a href="mailto:alexander.syropyatov@gmail.com" title="Send me email, pls!">
