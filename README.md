@@ -5,7 +5,8 @@
   My name is Alex, i'm inspired of coding and i'm Fullstack JS developer.  
 </div>
 <p>
- Link to my <a href='https://www.canva.com/design/DAErX-H1xR4/J90fva4XrwB4k3iEkc1AnQ/view?utm_content=DAErX-H1xR4&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton'>CV</a>, on
+ Link to my <a href='https://www.canva.com/design/DAErX-H1xR4/J90fva4XrwB4k3iEkc1AnQ/view?utm_content=DAErX-H1xR4&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton'>CV</a>
+  <br/>- on
 <a href='https://spb.hh.ru/resume/d55028c2ff094d94030039ed1f526f62357034'>HH</a>
 </p>
 <br/>
@@ -52,7 +53,7 @@
 <img src="https://d1.awsstatic.com/acs/characters/Logos/Docker-Logo_Horizontel_279x131.b8a5c41e56b77706656d61080f6a0217a3ba356d.png" style='width: 130px; height: 60px;'></a>
 <a href="https://jestjs.io" title="Jest">
 <img src="https://symbols.getvecta.com/stencil_85/20_jest-icon.a8fdca0c23.svg" style='width: 50px; height: 50px;'></a>
-<a href="https://github.com/" title="Github and Git">
+<a href="https://github.com/" title="I have no idea, what's this. Never used it.">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" style='width: 50px; height: 50px;'></a>
 </p>
 
