@@ -22,14 +22,14 @@
 <a href="https://reactjs.org/" title='I hate HBS, I love React!'>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/113px-React-icon.svg.png" style='width: 70px; height: 50px;'></a>
 <a href="https://redux.js.org" title='Redux. Saga and Thunk included'>
-<img src="https://redux.js.org/img/redux.svg" width='50' height='50' style='width: 50px; height: 50px;'></a>
+<img src="https://redux.js.org/img/redux.svg" width='60px' height='60px' style='width: 50px; height: 50px;'></a>
 </p>
 
 ## Back-end:
 
 <p align='center'>
 <a href="https://nodejs.org" title="Yeah, it's Node.js">
-<img src="https://nodejs.org/static/images/logo.svg"  width='50' height='50' style='width: 50px; height: 50px;'></a>
+<img src="https://nodejs.org/static/images/logo.svg"  width='60px' height='60px' style='width: 50px; height: 50px;'></a>
 <a href="https://expressjs.com/" title='Thcoo Tchoo'>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Expressjs.png/200px-Expressjs.png" style='width: 100px; height: 50px;'></a>
 </p>
@@ -38,9 +38,9 @@
 
 <p align='center'>
 <a href="https://www.postgresql.org/" title="I know PostgreSQL">
-<img src="https://www.postgresql.org/media/img/about/press/elephant.png" style='width: 50px; height: 50px;'></a>
+<img src="https://www.postgresql.org/media/img/about/press/elephant.png" width='60px' height='60px' style='width: 50px; height: 50px;'></a>
 <a href="https://sequelize.org/master/" title="Sequelize, it's like Prisma, but not">
-<img src="https://sequelize.org/master/manual/asset/logo-small.png" style='width: 50px; height: 50px;'></a>
+<img src="https://sequelize.org/master/manual/asset/logo-small.png" width='60px' height='60px' style='width: 50px; height: 50px;'></a>
 </p>
 
 ## Other:
@@ -76,8 +76,8 @@ Feel free to pm me:
 <a href="https://t.me/boreallex" title="Telegram!">
 <img src="https://telegram.org/img/t_logo.svg?1" style='width: 40px; height: 40px;'></a>
 <a href="https://wa.me/89105256082" title="Facebook corporation product">
-<img src="https://www.freeiconspng.com/uploads/download-and-use-logo-whatsapp-png-clipart-3.png" style='width: 42px; height: 42px;'></a>
+<img src="https://www.freeiconspng.com/uploads/download-and-use-logo-whatsapp-png-clipart-3.png" width='60px' height='60px' style='width: 42px; height: 42px;'></a>
 <a href="mailto:alexander.syropyatov@gmail.com" title="Send me email, pls!">
-<img src="https://www.freeiconspng.com/uploads/email-marketing-icon-email-icon-1.png" style='width: 40px; height: 30px;'></a>
+<img src="https://www.freeiconspng.com/uploads/email-marketing-icon-email-icon-1.png" width='60px' height='60px' style='width: 40px; height: 30px;'></a>
 </p>
 </br>
