@@ -20,6 +20,7 @@
   <li>Socket.io</li>
   <li>Docker, Docker Compose</li>
   <li>JQuery</li>
+  <li>OpenScada</>
 </ul>
 <h2>Road map:</h2>
 <ul>
