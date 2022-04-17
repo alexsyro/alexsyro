@@ -31,13 +31,6 @@
 </ul>
 <br/>
 <br/>
-<p align='center'>
-<a align="center" href="https://www.adamalston.com/">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexsyro&show_icons=true&line_height=21&theme=react" alt="Alexander Syropyatov Github Stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsyro&theme=react&line_height=27&layout=compact"/></a>
-</p>
-
-<br/>
 Feel free to pm me:
 <p align='left'>
 <a href="https://t.me/boreallex" title="Telegram!">
