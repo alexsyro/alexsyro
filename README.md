@@ -1,7 +1,7 @@
 ### Hello, my dear %username%!
 <br/>
 <div style='display:flex; justify-content: center; border: 1px solid black; padding: 1rem; background-color: #262721; color: white; border-radius: 0.2rem'>
-  My name is Alex, i'm inspired by coding and i'm a fullstack developer.  
+  My name is Alex, i'm inspired by coding and I'm a fullstack developer.  
 </div>
 <p>
   My <a href='https://linkedin.com/in/borealex'>LinkedIn</a>
@@ -21,13 +21,6 @@
   <li>Docker, Docker Compose</li>
   <li>JQuery</li>
   <li>OpenScada</>
-</ul>
-<h2>Road map:</h2>
-<ul>
-  <li>TS, Kotlin</li>
-  <li>Android Studio</li>
-  <li>Vue, Angular</li>
-  <li>GraphQL, Redux Toolkit</li>
 </ul>
 <br/>
 <br/>
