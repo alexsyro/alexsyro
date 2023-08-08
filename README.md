@@ -15,7 +15,7 @@
   <li>Sass/Scss</li>
   <li>Linux :heart:</li>
 </ul>
-<h2>Had some experience with:</h2>
+<h2>Have some experience with:</h2>
 <ul>
   <li>Socket.io</li>
   <li>Docker, Docker Compose</li>
