@@ -1,18 +1,17 @@
 ### Hello, my dear %username%!
 <br/>
 <div style='display:flex; justify-content: center; border: 1px solid black; padding: 1rem; background-color: #262721; color: white; border-radius: 0.2rem'>
-  My name is Alex, i'm inspired by coding and I'm a fullstack developer.  
+  Fullstack SDE.  
 </div>
 <p>
   My <a href='https://linkedin.com/in/borealex'>LinkedIn</a>
 </p>
-<h2>Stack:</h2>
+<h3>Main stack: Python-Django/TS-React</h3>
+<h2>Other:</h2>
 <ul>
-  <li>Python, JavaScript</li>
-  <li>Django, Node.js (Express)</li>
+  <li>Javascript/Node.js(Express)</li>
   <li>MySQL, PostgreSQL</li>
   <li>React, Redux</li>
-  <li>Sass/Scss</li>
   <li>Linux :heart:</li>
 </ul>
 <h2>Have some experience with:</h2>
@@ -23,13 +22,3 @@
   <li>OpenScada</>
 </ul>
 <br/>
-<br/>
-Feel free to pm me:
-<p align='left'>
-<a href="https://t.me/boreallex" title="Telegram!">
-<img src="https://telegram.org/img/t_logo.svg?1" width='60px' height='60px' style='width: 40px; height: 40px;'></a>
-<a href="https://wa.me/89105256082" title="Facebook corporation product">
-<img src="https://www.freeiconspng.com/uploads/download-and-use-logo-whatsapp-png-clipart-3.png" width='60px' height='60px' style='width: 42px; height: 42px;'></a>
-<a href="mailto:alexander.syropyatov@gmail.com" title="Send me email, pls!">
-<img src="https://www.freeiconspng.com/uploads/email-marketing-icon-email-icon-1.png" width='60px' height='60px' style='width: 40px; height: 30px;'></a>
-</p>
